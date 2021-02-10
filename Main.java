@@ -3,7 +3,6 @@ class Main {
     public static void main(String[] args) {
         int randomnumber = (int) (Math.random() * 9);
         System.out.println(game(randomnumber));
-        game2();
 
     }
 
